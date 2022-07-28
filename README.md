@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<br/>
+#### Skills and tools:
+
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,atom,aws,azure,bash,bootstrap,c,cs,cpp,css,docker,dotnet,dynamodb,eclipse,express,firebase,gcp,git,github,gtk,heroku,hibernate,html,idea,java,js,jenkins,jquery,kubernetes,linux,lua,md,maven,mongodb,mysql,nginx,nodejs,nuxtjs,postgres,py,qt,spring,sqlite,svelte,swift,ts,vue&perline=16)](https://skillicons.dev)
+<br/>
+<br/>
+
+![](https://komarev.com/ghpvc/?username=your-github-sedrakpc&&color=blueviolet)
+
 <!--
 **sedrakpc/sedrakpc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,9 +23,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br/>
-
-#### Skills and tools:
-
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,atom,aws,azure,bash,bootstrap,c,cs,cpp,css,docker,dotnet,dynamodb,eclipse,express,firebase,gcp,git,github,gtk,heroku,hibernate,html,idea,java,js,jenkins,jquery,kubernetes,linux,lua,md,maven,mongodb,mysql,nginx,nodejs,nuxtjs,postgres,py,qt,spring,sqlite,svelte,swift,ts,vue&perline=16)](https://skillicons.dev)
-<br/>
