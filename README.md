@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <br/>
+
 #### Skills and tools:
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,atom,aws,azure,bash,bootstrap,c,cs,cpp,css,docker,dotnet,dynamodb,eclipse,express,firebase,gcp,git,github,gtk,heroku,hibernate,html,idea,java,js,jenkins,jquery,kubernetes,linux,lua,md,maven,mongodb,mysql,nginx,nodejs,nuxtjs,postgres,py,qt,spring,sqlite,svelte,swift,ts,vue&perline=16)](https://skillicons.dev)
