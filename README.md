@@ -5,7 +5,7 @@
 | <img src="https://rapidapi.com/hub/_next/image?url=https%3A%2F%2Frapidapi-prod-apis.s3.amazonaws.com%2F5596fc76-38b5-4f82-8c81-0dd25d5ac3cf.png&w=96&q=75" alt="Subdomain Scan Icon" width="32" height="32" /> | [**Subdomain Scan**](https://rapidapi.com/user/sedrakpc)<br><sub><em>Enter a domain here and we'll check all subdomains and return it in a JSON format...</em></sub> |
 | :---: | :--- |
 
-| <img src="https://rapidapi.com/hub/_next/image?url=https%3A%2F%2Frapidapi-prod-apis.s3.amazonaws.com%2F5ac951de-f820-425f-ae46-bf62d3b68cac.jpg&w=96&q=75" alt="Subdomain Scan Icon" width="32" height="32" /> | [**IP Geolocation**](https://rapidapi.com/user/sedrakpc)<br><sub><em>API returns location data such as Location, Continent, Country, Region, City, ZIP C...&nbsp;</em></sub> |
+| <img src="https://rapidapi.com/hub/_next/image?url=https%3A%2F%2Frapidapi-prod-apis.s3.amazonaws.com%2F5ac951de-f820-425f-ae46-bf62d3b68cac.jpg&w=96&q=75" alt="Subdomain Scan Icon" width="32" height="32" /> | [**IP Geolocation**](https://rapidapi.com/user/sedrakpc)<br><sub><em>API returns location data such as Location, Continent, Country, Region, City, ZIP C...</em></sub> |
 | :---: | :--- |
 
 
